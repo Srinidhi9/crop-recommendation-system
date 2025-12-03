@@ -42,6 +42,7 @@ python app.py
 [php artisan migrate](http://localhost:5000)
 
 ## 📸 Sample Output
+<img width="1341" height="635" alt="image" src="https://github.com/user-attachments/assets/b122d276-02bb-4333-a828-ee560c75a04c" />
 
 ## 👩‍💻 Developer
 
